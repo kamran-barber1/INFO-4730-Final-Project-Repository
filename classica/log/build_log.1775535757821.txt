@@ -1,0 +1,24 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file Claire de Lune\metadata.xml is being processed by MetadataXMLPlugin.
+The file Claire de Lune\Debussy - Claire de Lune.pdf was recognised but could not be processed by any plugin.
+The file Dance of the Sugar-Plum Faires\metadata.xml is being processed by MetadataXMLPlugin.
+The file E:\Down\IndexThoseThings\web\sites\localsite\collect\classica\tmp\1775535762\Tchaikovsky - Dance of the Sugar-Plum Fairy.html is being processed by HTMLPlugin.
+The file Fantasia Op. 77 in G minor\metadata.xml is being processed by MetadataXMLPlugin.
+The file E:\Down\IndexThoseThings\web\sites\localsite\collect\classica\tmp\1775535766\Beethoven - Fantasia Op. 77 in G minor.html is being processed by HTMLPlugin.
+The file F�r Elise\metadata.xml is being processed by MetadataXMLPlugin.
+The file E:\Down\IndexThoseThings\web\sites\localsite\collect\classica\tmp\1775535771\Beethoven - F%C3%BCr Elise.html is being processed by HTMLPlugin.
+The file The Four Seasons\metadata.xml is being processed by MetadataXMLPlugin.
+The file E:\Down\IndexThoseThings\web\sites\localsite\collect\classica\tmp\1775535772\Vivaldi - The Four Seasons - Concerto No. 2 in G minor RV315 %28Summer%29-1.html is being processed by HTMLPlugin.
+************** Import Finished **************
+5 documents were considered for processing:
+    4 documents were processed and included in the collection.
+    1 was rejected.
+
+************** Build  Started **************
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Author;Source;...
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Author;Source;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************

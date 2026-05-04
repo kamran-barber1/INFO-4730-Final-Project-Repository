@@ -1,0 +1,26 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file I Should Like in a Single Word\metadata.xml is being processed by MetadataXMLPlugin.
+The file E:\Down\IndexThoseThings\web\sites\localsite\collect\classica\tmp\1775546110\I Should Like in a Single Word.html is being processed by HTMLPlugin.
+The file Prelude (Fantasia) and Fugue in G minor\metadata.xml is being processed by MetadataXMLPlugin.
+The file E:\Down\IndexThoseThings\web\sites\localsite\collect\classica\tmp\1775546112\Prelude %28Fantasia%29 and Fugue in G minor.html is being processed by HTMLPlugin.
+The file Symphony No.41 in C major\metadata.xml is being processed by MetadataXMLPlugin.
+The file E:\Down\IndexThoseThings\web\sites\localsite\collect\classica\tmp\1775546123\Symphony No.41 in C major.html is being processed by HTMLPlugin.
+The file The Four Seasons\metadata.xml is being processed by MetadataXMLPlugin.
+The file E:\Down\IndexThoseThings\web\sites\localsite\collect\classica\tmp\1775546150\1%2C Violin Concerto in E major%2C %27La primavera%27 %28Spring%29.html is being processed by HTMLPlugin.
+The file E:\Down\IndexThoseThings\web\sites\localsite\collect\classica\tmp\1775546163\2%2C Violin Concerto in G minor%2C %27L%27estate%27 %28Summer%29.html is being processed by HTMLPlugin.
+The file E:\Down\IndexThoseThings\web\sites\localsite\collect\classica\tmp\1775546176\3%2C Violin Concerto in F major%2C %27L%27autunno%27 %28Autumn%29.html is being processed by HTMLPlugin.
+The file E:\Down\IndexThoseThings\web\sites\localsite\collect\classica\tmp\1775546189\4%2C Violin Concerto in F minor%2C %27L%27inverno%27 %28Winter%29.html is being processed by HTMLPlugin.
+The file Violin Partita No.2\metadata.xml is being processed by MetadataXMLPlugin.
+The file E:\Down\IndexThoseThings\web\sites\localsite\collect\classica\tmp\1775546201\Violin Partita No.2.html is being processed by HTMLPlugin.
+************** Import Finished **************
+8 documents were considered for processing:
+    8 documents were processed and included in the collection.
+
+************** Build  Started **************
+Creating an index based on dc.Title,ex.dc.Title,Title;Author;dc.Subject;...
+Creating an index based on dc.Title,ex.dc.Title,Title;Author;dc.Subject;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************

@@ -1,0 +1,28 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file E:\Down\IndexThoseThings\web\sites\localsite\collect\classica\tmp\1775539160\Alkan - Etude Op. 35 No. 03 in G.html is being processed by HTMLPlugin.
+The file I Should Like in a Single Word\metadata.xml is being processed by MetadataXMLPlugin.
+The file E:\Down\IndexThoseThings\web\sites\localsite\collect\classica\tmp\1775539163\I Should Like in a Single Word.html is being processed by HTMLPlugin.
+The file Prelude (Fantasia) and Fugue in G minor\metadata.xml is being processed by MetadataXMLPlugin.
+The file Prelude (Fantasia) and Fugue in G minor\Prelude (Fantasia) and Fugue in G minor was not recognised by any plugin.
+The file Symphony No.41 in C major\metadata.xml is being processed by MetadataXMLPlugin.
+The file Symphony No.41 in C major\Symphony No.41 in C major was not recognised by any plugin.
+The file The Four Seasons\metadata.xml is being processed by MetadataXMLPlugin.
+The file The Four Seasons\1, Violin Concerto in E major, 'La primavera was not recognised by any plugin.
+The file The Four Seasons\2, Violin Concerto in G minor, 'L'estate was not recognised by any plugin.
+The file The Four Seasons\3, Violin Concerto in F major, 'L'autunno was not recognised by any plugin.
+The file The Four Seasons\4, Violin Concerto in F minor, 'L'inverno was not recognised by any plugin.
+The file Violin Partita No.2\metadata.xml is being processed by MetadataXMLPlugin.
+The file Violin Partita No.2\Violin Partita No.2 was not recognised by any plugin.
+************** Import Finished **************
+9 documents were considered for processing:
+    2 documents were processed and included in the collection.
+    7 were unrecognised.
+
+************** Build  Started **************
+Creating an index based on dc.Title,ex.dc.Title,Title;Author;dc.Subject;...
+Creating an index based on dc.Title,ex.dc.Title,Title;Author;dc.Subject;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************

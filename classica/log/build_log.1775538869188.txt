@@ -1,0 +1,26 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file I Should Like in a Single Word\metadata.xml is being processed by MetadataXMLPlugin.
+The file I Should Like in a Single Word\I Should Like in a Single Word was not recognised by any plugin.
+The file Prelude (Fantasia) and Fugue in G minor\metadata.xml is being processed by MetadataXMLPlugin.
+The file Prelude (Fantasia) and Fugue in G minor\Prelude (Fantasia) and Fugue in G minor was not recognised by any plugin.
+The file Symphony No.41 in C major\metadata.xml is being processed by MetadataXMLPlugin.
+The file Symphony No.41 in C major\Symphony No.41 in C major was not recognised by any plugin.
+The file The Four Seasons\metadata.xml is being processed by MetadataXMLPlugin.
+The file The Four Seasons\1, Violin Concerto in E major, 'La primavera was not recognised by any plugin.
+The file The Four Seasons\2, Violin Concerto in G minor, 'L'estate was not recognised by any plugin.
+The file The Four Seasons\3, Violin Concerto in F major, 'L'autunno was not recognised by any plugin.
+The file The Four Seasons\4, Violin Concerto in F minor, 'L'inverno was not recognised by any plugin.
+The file Violin Partita No.2\metadata.xml is being processed by MetadataXMLPlugin.
+The file Violin Partita No.2\Violin Partita No.2 was not recognised by any plugin.
+************** Import Finished **************
+8 documents were considered for processing:
+    8 were unrecognised.
+
+************** Build  Started **************
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Author;Source;...
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Author;Source;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************

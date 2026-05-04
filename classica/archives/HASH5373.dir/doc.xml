@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="SourceDirectory">E:\Down\IndexThoseThings\web\sites\localsite\collect\classica\tmp\1777862469</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="URL">http://E:/Down/IndexThoseThings/web/sites/localsite/collect/classica/tmp/1777862469/I Should Like in a Single Word.html</Metadata>
+    <Metadata name="UTF8URL">http://E:/Down/IndexThoseThings/web/sites/localsite/collect/classica/tmp/1777862469/I Should Like in a Single Word.html</Metadata>
+    <Metadata name="Title">I Should Like in a Single Word</Metadata>
+    <Metadata name="gsdlsourcefilename">import\I Should Like in a Single Word\I Should Like in a Single Word.pdf</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1777862469\I Should Like in a Single Word.html</Metadata>
+    <Metadata name="OrigSource">I Should Like in a Single Word.html</Metadata>
+    <Metadata name="Source">I Should Like in a Single Word.pdf</Metadata>
+    <Metadata name="SourceFile">I Should Like in a Single Word.pdf</Metadata>
+    <Metadata name="Plugin">PDFv2Plugin</Metadata>
+    <Metadata name="FileSize">624950</Metadata>
+    <Metadata name="SourceDirectory">I Should Like in a Single Word</Metadata>
+    <Metadata name="FilenameRoot">I Should Like in a Single Word</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="dc.Creator">Tchaikovsky, Pyotr</Metadata>
+    <Metadata name="dc.Date">1876</Metadata>
+    <Metadata name="dc.Format">PDF</Metadata>
+    <Metadata name="dc.Language">Russian</Metadata>
+    <Metadata name="dc.Publisher">Moscow: P. Jurgenson, Plate 14886 T.447</Metadata>
+    <Metadata name="dc.Rights">Public Domain</Metadata>
+    <Metadata name="dc.Subject">Classical</Metadata>
+    <Metadata name="dc.Title">I Should Like in a Single Word </Metadata>
+    <Metadata name="dc.Type">voice, piano</Metadata>
+    <Metadata name="Identifier">HASH537332496d81a9408ea859</Metadata>
+    <Metadata name="lastmodified">1775538044</Metadata>
+    <Metadata name="lastmodifieddate">20260407</Metadata>
+    <Metadata name="oailastmodified">1777862471</Metadata>
+    <Metadata name="oailastmodifieddate">20260503</Metadata>
+    <Metadata name="assocfilepath">HASH5373.dir</Metadata>
+    <Metadata name="gsdlassocfile">page1.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page2.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page3.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page4.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+
+
+
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 1</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page1&quot;&gt;
+&lt;div style=&quot;position: relative; height: 841px; width: 595px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;841&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;595&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 2</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page2&quot;&gt;
+&lt;div style=&quot;position: relative; height: 841px; width: 595px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p2f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;841&quot; id=&quot;background2&quot; src=&quot;_httpdocimg_/page2.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;595&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 3</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page3&quot;&gt;
+&lt;div style=&quot;position: relative; height: 841px; width: 595px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p3f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;841&quot; id=&quot;background3&quot; src=&quot;_httpdocimg_/page3.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;595&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 4</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page4&quot;&gt;
+&lt;div style=&quot;position: relative; height: 841px; width: 595px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p4f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;841&quot; id=&quot;background4&quot; src=&quot;_httpdocimg_/page4.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;595&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+</Section>
+</Archive>

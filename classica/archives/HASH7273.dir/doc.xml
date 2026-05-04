@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="SourceDirectory">E:\Down\IndexThoseThings\web\sites\localsite\collect\classica\tmp\1777862601</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="URL">http://E:/Down/IndexThoseThings/web/sites/localsite/collect/classica/tmp/1777862601/Violin Partita No.2.html</Metadata>
+    <Metadata name="UTF8URL">http://E:/Down/IndexThoseThings/web/sites/localsite/collect/classica/tmp/1777862601/Violin Partita No.2.html</Metadata>
+    <Metadata name="Title">Violin Partita No.2</Metadata>
+    <Metadata name="gsdlsourcefilename">import\Violin Partita No.2\Violin Partita No.2.pdf</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1777862601\Violin Partita No.2.html</Metadata>
+    <Metadata name="OrigSource">Violin Partita No.2.html</Metadata>
+    <Metadata name="Source">Violin Partita No.2.pdf</Metadata>
+    <Metadata name="SourceFile">Violin Partita No.2.pdf</Metadata>
+    <Metadata name="Plugin">PDFv2Plugin</Metadata>
+    <Metadata name="FileSize">1096890</Metadata>
+    <Metadata name="SourceDirectory">Violin Partita No.2</Metadata>
+    <Metadata name="FilenameRoot">Violin Partita No.2</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="dc.Contributor">Günter Haußwald</Metadata>
+    <Metadata name="dc.Creator">Bach, Johann Sebastian</Metadata>
+    <Metadata name="dc.Date">1802</Metadata>
+    <Metadata name="dc.Format">PDF</Metadata>
+    <Metadata name="dc.Publisher">Neue Bach-Ausgabe, Serie VI, Band 1</Metadata>
+    <Metadata name="dc.Rights">Public Domain</Metadata>
+    <Metadata name="dc.Subject">Baroque</Metadata>
+    <Metadata name="dc.Title">Violin Partita No.2</Metadata>
+    <Metadata name="dc.Type">violin</Metadata>
+    <Metadata name="Identifier">HASH72736e0dca08289f4624d8</Metadata>
+    <Metadata name="lastmodified">1775537524</Metadata>
+    <Metadata name="lastmodifieddate">20260406</Metadata>
+    <Metadata name="oailastmodified">1777862607</Metadata>
+    <Metadata name="oailastmodifieddate">20260503</Metadata>
+    <Metadata name="assocfilepath">HASH7273.dir</Metadata>
+    <Metadata name="gsdlassocfile">page1.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page2.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page3.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page4.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page5.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page6.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page7.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page8.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page9.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page10.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page11.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page12.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+
+
+
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">Pages 1-10</Metadata>
+  </Description>
+  <Content>
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 1</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page1&quot;&gt;
+&lt;div style=&quot;position: relative; height: 913px; width: 720px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;913&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;720&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 2</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page2&quot;&gt;
+&lt;div style=&quot;position: relative; height: 913px; width: 720px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p2f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;913&quot; id=&quot;background2&quot; src=&quot;_httpdocimg_/page2.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;720&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 3</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page3&quot;&gt;
+&lt;div style=&quot;position: relative; height: 913px; width: 720px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p3f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;913&quot; id=&quot;background3&quot; src=&quot;_httpdocimg_/page3.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;720&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 4</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page4&quot;&gt;
+&lt;div style=&quot;position: relative; height: 913px; width: 720px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p4f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;913&quot; id=&quot;background4&quot; src=&quot;_httpdocimg_/page4.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;720&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 5</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page5&quot;&gt;
+&lt;div style=&quot;position: relative; height: 913px; width: 720px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p5f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p5f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;913&quot; id=&quot;background5&quot; src=&quot;_httpdocimg_/page5.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;720&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 6</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page6&quot;&gt;
+&lt;div style=&quot;position: relative; height: 913px; width: 720px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p6f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p6f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p6f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;913&quot; id=&quot;background6&quot; src=&quot;_httpdocimg_/page6.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;720&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 7</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page7&quot;&gt;
+&lt;div style=&quot;position: relative; height: 913px; width: 720px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p7f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p7f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p7f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;913&quot; id=&quot;background7&quot; src=&quot;_httpdocimg_/page7.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;720&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 8</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page8&quot;&gt;
+&lt;div style=&quot;position: relative; height: 913px; width: 720px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p8f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p8f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p8f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;913&quot; id=&quot;background8&quot; src=&quot;_httpdocimg_/page8.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;720&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 9</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page9&quot;&gt;
+&lt;div style=&quot;position: relative; height: 913px; width: 720px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p9f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p9f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p9f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;913&quot; id=&quot;background9&quot; src=&quot;_httpdocimg_/page9.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;720&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 10</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page10&quot;&gt;
+&lt;div style=&quot;position: relative; height: 913px; width: 720px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p10f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p10f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p10f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;913&quot; id=&quot;background10&quot; src=&quot;_httpdocimg_/page10.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;720&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Pages 11-20</Metadata>
+  </Description>
+  <Content>
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 11</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page11&quot;&gt;
+&lt;div style=&quot;position: relative; height: 913px; width: 720px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p11f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p11f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p11f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;913&quot; id=&quot;background11&quot; src=&quot;_httpdocimg_/page11.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;720&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 12</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page12&quot;&gt;
+&lt;div style=&quot;position: relative; height: 913px; width: 720px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p12f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p12f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p12f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;913&quot; id=&quot;background12&quot; src=&quot;_httpdocimg_/page12.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;720&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+</Section>
+</Section>
+</Archive>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>.*</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Prelude (Fantasia) and Fugue in G minor </Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Bach, Johann Sebastian</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Classical</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">1838</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">organ</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">PDF</Metadata>
+			<Metadata mode="accumulate" name="dc.Rights">Public Domain</Metadata>
+			<Metadata mode="accumulate" name="dc.Contributor">Wilhelm Rust</Metadata>
+			<Metadata mode="accumulate" name="dc.Publisher">Bach-Gesellschaft Ausgabe, Band 15</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

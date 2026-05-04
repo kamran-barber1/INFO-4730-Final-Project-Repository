@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>.*</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Symphony No.41 in C major</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Mozart, Wolfgang Amadeus </Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Classical</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">1793</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">PDF</Metadata>
+			<Metadata mode="accumulate" name="dc.Rights">Public Domain</Metadata>
+			<Metadata mode="accumulate" name="dc.Contributor">Howard Chandler Robbins Landon</Metadata>
+			<Metadata mode="accumulate" name="dc.Publisher">Neue Mozart-Ausgabe, Serie IV, Werkgruppe 11, Sinfonien, Band 9</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">flute, oboe, bassoon, horn, trumpet, timpani, violin, viola, cello, double bass</Metadata>
+		</Description>
+	</FileSet>
+
+</DirectoryMetadata>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>.*</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Violin Partita No.2</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Bach, Johann Sebastian</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">1802</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Baroque</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">violin</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">PDF</Metadata>
+			<Metadata mode="accumulate" name="dc.Rights">Public Domain</Metadata>
+			<Metadata mode="accumulate" name="dc.Contributor">Günter Haußwald</Metadata>
+			<Metadata mode="accumulate" name="dc.Publisher">Neue Bach-Ausgabe, Serie VI, Band 1</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

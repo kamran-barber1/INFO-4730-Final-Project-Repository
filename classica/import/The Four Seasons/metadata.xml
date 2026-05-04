@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>.*</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Creator">Vivaldi, Antonio</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Baroque</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">1725</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">violin, strings, continuo</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">PDF</Metadata>
+			<Metadata mode="accumulate" name="dc.Rights">Public Domain</Metadata>
+			<Metadata mode="accumulate" name="dc.Contributor">Newell Jenkins</Metadata>
+			<Metadata mode="accumulate" name="dc.Publisher">Leipzig: Edition Eulenburg</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">The Four Seasons</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>4, Violin Concerto in F minor, 'L'inverno' \(Winter\)\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Winter, Violin Concerto in F minor, 'L'inverno'</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>3, Violin Concerto in F major, 'L'autunno' \(Autumn\)\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Autumn, Violin Concerto in F major, 'L'autunno'</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>2, Violin Concerto in G minor, 'L'estate' \(Summer\)\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Summer, Violin Concerto in G minor, 'L'estate'</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>1, Violin Concerto in E major, 'La primavera' \(Spring\)\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Spring, Violin Concerto in E major, 'La primavera'</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>
